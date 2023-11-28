@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\bin\Debug\net6.0\oop lab 9(2).exe
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\bin\Debug\net6.0\oop lab 9(2).deps.json
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\bin\Debug\net6.0\oop lab 9(2).runtimeconfig.json
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\bin\Debug\net6.0\oop lab 9(2).dll
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\bin\Debug\net6.0\oop lab 9(2).pdb
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).AssemblyInfo.cs
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).dll
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\refint\oop lab 9(2).dll
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).pdb
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\oop lab 9(2).genruntimeconfig.cache
+C:\Users\Acer\source\repos\oop lab 9(2)\oop lab 9(2)\obj\Debug\net6.0\ref\oop lab 9(2).dll
